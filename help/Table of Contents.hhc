@@ -1,0 +1,36 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<!-- Sitemap 1.0 -->
+</HEAD><BODY>
+<OBJECT type="text/site properties">
+	<param name="ImageType" value="Folder">
+</OBJECT>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="工作原理">
+		<param name="Local" value="main.htm#principle">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="系统需求">
+		<param name="Local" value="main.htm#sysreq">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="安装与运行">
+		<param name="Local" value="main.htm#install">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="额外功能">
+		<param name="Local" value="main.htm##otherfeatures">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="常见问题及解决方法">
+		<param name="Local" value="main.htm#troubleshot">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="免责声明与用户协议">
+		<param name="Local" value="main.htm#eula">
+		</OBJECT>
+</UL>
+</BODY></HTML>

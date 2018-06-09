@@ -1,0 +1,30 @@
+## Interface: 50300
+## Title: Cricket
+## Version: 1.10
+## Author: Abin
+## RequiredDeps: Blizzard_PetBattleUI, Blizzard_PetJournal
+## OptionalDeps: AutoLFD
+## SavedVariables: CricketDB
+
+Includes\InterfaceOptionPage-1.0.lua
+Includes\VirtualScrollList-1.0.lua
+Includes\EmbedEvent-1.0.lua
+Includes\TabFrame-1.0.lua
+Includes\LibActionPixel-1.0.lua
+Includes\TickThread-1.0.lua
+
+Locales\enUS.lua
+Locales\zhCN.lua
+Locales\zhTW.lua
+
+Core.lua
+
+Frames\MainFrame.lua
+Frames\EventLog.lua
+Frames\PetList.lua
+Frames\ActionFrame.lua
+
+Modules\Thread.lua
+Modules\Healing.lua
+Modules\Battle.lua
+Modules\Tactics.lua

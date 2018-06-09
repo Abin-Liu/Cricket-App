@@ -1,0 +1,15 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=Cricket.chm
+Contents file=Table of Contents.hhc
+Default topic=main.htm
+Display compile progress=No
+Language=0x804 Chinese (PRC)
+Title=Ä§ÊÞ´óòÐ by Abin
+
+
+[FILES]
+main.htm
+
+[INFOTYPES]
+
